@@ -1,2 +1,3 @@
 # Company-staff-data-analysis
-This project focuses on analyzing and visualizing employee data from a multinational company with branches in India and New Zealand. By combining datasets from both regions using Power Pivot and performing data cleaning, the analysis provided valuable insights into employee demographics, performance metrics, and company growth trends. 
+This project involves analyzing data from a company with branches in India and New Zealand. The data was loaded into an Excel workbook, with one sheet named nzstaff for New Zealand staff and another named indstaff for Indian staff.
+Using Power Pivot, the two tables were combined into a single table named All Staff.
