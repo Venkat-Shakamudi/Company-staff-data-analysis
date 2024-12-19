@@ -10,17 +10,21 @@ Using Power Pivot, the two tables were combined into a single table named All St
 3)Filtering out irrelevant data
 Following the data preparation, several business questions were addressed:
 
-Quick Analysis of the Data:1) A high-level overview was performed to identify key patterns.
+Quick Analysis of the Data:
+1) A high-level overview was performed to identify key patterns.
 2)Information Finder: Lookup functions were used to extract specific information efficiently.
 3)Male vs. Female Comparison: Gender-based comparisons were conducted using functions such as IF, COUNTA, COUNTIFS, and SUMIFS.
 4)Annual Bonus Calculation: The annual bonuses for staff were computed.
 Advanced Analysis
+
 In the analysis phase, the following detailed comparisons and insights were made:
+
 1)Salary Spread Analysis: Examined the distribution of salaries.
 2)Relationship Between Salary and Ratings: Explored correlations between employees’ salaries and their performance ratings.
 3)Company Growth Overview: Analyzed growth trends over time.
 4)Regional Scorecard: Created a performance scorecard for each region.
 5)Country Comparison Report: Developed a comparative report for staff in India and New Zealand.
+
 This project leverages Power Pivot and Excel functions to derive actionable insights and create meaningful visualizations for stakeholders.
 
 
