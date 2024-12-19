@@ -21,7 +21,7 @@ In the analysis phase, the following detailed comparisons and insights were made
 
 1)Salary Spread Analysis: Examined the distribution of salaries.
 2)Relationship Between Salary and Ratings: Explored correlations between employees’ salaries and their performance ratings.
-3)Company Growth Overview: Analyzed growth trends over time.
+3)Company Growth Overview: Analyzed growth trends over time.<a href="https://github.com/Venkat-Shakamudi/Company-staff-data-analysis/blob/main/company%20growth.png">companygrowth</a>
 4)Regional Scorecard: Created a performance scorecard for each region.
 5)Country Comparison Report: Developed a comparative report for staff in India and New Zealand.
 
